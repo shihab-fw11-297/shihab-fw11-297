@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://shihab-fw11-297.github.io/Shihab-Shaikh.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shihab-shaikh-github-io.vercel.app/)**
 
 - 📫 How to reach me **shihabshaikh1996@gmail.com**
 
