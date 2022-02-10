@@ -20,6 +20,11 @@
 
 ## 🚀 Languages and Tools:
 
+- 🚀 Languages - **HTML, CSS, JavaScript, Java**
+- 🚀 FrameWork/Libraries - **React.js, Express.js**
+- 🚀 Databases/Backend - **MongoDB, Redis, Node.js, Mysql**
+- 🚀 Others - **Git, Python, VSCode, Postman**
+- 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
