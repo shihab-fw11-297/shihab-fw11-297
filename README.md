@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://shihab-shaikh-github-io.vercel.app/)**
 
-- 📫 How to reach me **shihabshaikh1996@gmail.com**
+- 📫 How to reach me **shihabshaikh96@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the travel very often.**
 
@@ -23,8 +23,9 @@
 - 🚀 Languages - **HTML, CSS, JavaScript, Java**
 - 🚀 FrameWork/Libraries - **React.js, Express.js**
 - 🚀 Databases/Backend - **MongoDB, Redis, Node.js, Mysql**
-- 🚀 Others - **Git, Python, VSCode, Postman**
-- 
+- 🚀 Others - **Git, VSCode, Postman**
+
+
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
