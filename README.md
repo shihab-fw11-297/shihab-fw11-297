@@ -1,4 +1,4 @@
-<a href="#"><img src="https://shihab-shaikh-github-io.vercel.app/assets/img/about.jpg" width="400px" height="400px" margin:"auto"/></a>
+<a href="#"><img src="https://shihab-shaikh-github-io.vercel.app/assets/img/about.jpg" width="400px" height="400px" margin="auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shihab</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
